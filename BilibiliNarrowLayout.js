@@ -5,16 +5,22 @@
 // @name:pt-BR           BilibiliNarrowLayout
 // @name:ru              BilibiliNarrowLayout
 // @match                *://www.bilibili.com/video/*
-// @author               AyachiNene
+// @author               EugeneXXXie
 // @description          自动化操作，提高效率，适配窄屏下的B站布局
 // @description:zh-CN    自动化操作，提高效率，适配窄屏下的B站布局
 // @description:zh-TW    自動化操作，提高效率，適配窄屏下的B站佈局
 // @description:pt-BR    Operação automática, melhora a eficiência
 // @description:ru       Автоматическая операция, повышение эффективности
-// @version              2025.01.01.2
+// @license              MIT
+// @version              1.0.1
 // @icon                 https://www.bilibili.com/favicon.ico
+// @namespace            http://azusakis.cn:10721
+// @homepage             http://azusakis.cn:10721
 // @run-at               document-body
 // @grant                GM_addStyle
+
+// @downloadURL https://update.greasyfork.org/scripts/560143/BilibiliNarrowLayout.user.js
+// @updateURL https://update.greasyfork.org/scripts/560143/BilibiliNarrowLayout.meta.js
 // ==/UserScript==
 
 (function() {
