@@ -46,8 +46,3 @@
 本项目基于 [MIT](LICENSE) 协议开源。
 
 ---
-
-**📫 联系与反馈**
-
-* 作者：[AyachiNene](http://azusakis.cn:10721)
-* 项目主页：[azusakis.cn](http://azusakis.cn:10721)
